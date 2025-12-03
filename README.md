@@ -16,7 +16,7 @@ Earlier, I completed two internships at Pomerleau, where I developed and optimiz
 - **Tools**: Azure, PostgreSQL, Kubernetes, Jenkins, SSMS
 
 ## 🔨 Projects
-**[QueryCraft](https://github.com/KrasiKirov/Bold-Learning-App)**  
+**[QuestionForger](https://github.com/KrasiKirov/Bold-Learning-App)**  
 A React app that personalizes learning experiences using Elo rating, backed by a Node.js and SQL Server stack.
 
 **[GitFit](https://github.com/KrasiKirov/GitFit)**  
