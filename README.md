@@ -1,12 +1,14 @@
 # Hi, I'm Krasi!👋
 
 ## 🚀 About Me
-I'm a third-year software engineering student at McGill University with a focus on full-stack development. I enjoy building web applications, from backend optimization to creating dynamic user interfaces. 
+I'm a third-year software engineering student at McGill University with a focus on full-stack development. I enjoy building web applications, from optimizing the backend to creating dynamic user interfaces. 
 
 ## 💼 Professional Experience
-My internship at UKG immersed me in the Human Capital Management (HCM) sector, where I directly applied Software Development principles to engineer critical components of their workforce management (WFM) platform. I contributed to the full-cycle development of their scheduling platform, directly impacting 2,500 organizations. This involved resolving critical production defects in Java on Kubernetes and engineering robust Java validation logic to ensure data integrity, which solidified my appreciation for backend complexity and its impact on large-scale operations.
+My most recent internship at Amazon Web Services (AWS) involved architecting and implementing a comprehensive observability platform for the Redshift query planner. This end-to-end solution significantly increased monitoring coverage and established critical health signals, powering automated alerting for potential performance regressions. I developed diagnostic dashboards, leveraging SQL for deep insights into telemetry, which drastically reduced MTTR and manual log investigation. This work enabled the proactive detection and resolution of performance issues, preventing customer impact and enhancing the overall reliability of Redshift's core functionality.
 
-Prior to UKG, I completed two internships at Pomerleau, where I played a key role in developing and optimizing software solutions that streamlined project management. I initially created a Visual Dashboard app using ASP.NET, improving performance for over 150 project managers and implementing CI/CD pipelines that accelerated delivery by 50%. In my second internship, I designed an Admin platform to manage 200+ projects, optimizing backend services with C# and enhancing frontend usability with JavaScript, resulting in a 25% improvement in response times.
+Prior to AWS, my internship at UKG focused on the Human Capital Management (HCM) sector, where I engineered critical components of their workforce management (WFM) scheduling platform. I contributed to the full-cycle development, directly impacting 2,500 organizations by resolving critical production defects in Java on Kubernetes and developing robust Java validation logic. This experience solidified my appreciation for the complexity of the backend and its role in ensuring data integrity for large-scale enterprise operations.
+
+Earlier, I completed two internships at Pomerleau, where I developed and optimized software solutions that streamlined project management and significantly improved operational efficiency. In my initial role, I developed a Visual Dashboard application using ASP.NET, which significantly improved performance for over 150 project managers. Through the implementation of a CI/CD pipeline, I also accelerated delivery by 50%. My second internship involved designing an Administrative platform to manage over 200 projects, optimizing backend services with C# and enhancing frontend usability with JavaScript, resulting in a 25% improvement in response times.
 
 ## 🛠️ Tech Stack
 - **Languages**: Java, Python, C#, JavaScript, SQL, C, Bash
