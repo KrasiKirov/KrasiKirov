@@ -1,7 +1,7 @@
 # Hi, I'm Krasi!
 
 ## About Me
-I'm a third-year software engineering student at McGill University with a focus on full-stack development. I enjoy building web applications, from optimizing the backend to creating dynamic user interfaces. 
+I'm a fourth-year software engineering student at McGill University with a focus on full-stack development. I enjoy building web applications, from optimizing the backend to creating dynamic user interfaces. 
 
 ## Professional Experience
 My most recent internship at Amazon Web Services (AWS) involved architecting and implementing a comprehensive observability platform for the Redshift query planner. This end-to-end solution significantly increased monitoring coverage and established critical health signals, powering automated alerting for potential performance regressions. I developed diagnostic dashboards, leveraging SQL for deep insights into telemetry, which drastically reduced MTTR and manual log investigation. This work enabled the proactive detection and resolution of performance issues, preventing customer impact and enhancing the overall reliability of Redshift's core functionality.
