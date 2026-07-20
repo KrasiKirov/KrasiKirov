@@ -21,5 +21,5 @@ Java · C# · Python · JavaScript · SQL · Spring · ASP.NET · React · Angul
 
 ## Connect
 
-[Portfolio](https://krasikirov.github.io/KrasimirKirov/) · [LinkedIn](https://linkedin.com/in/krasimir-kirov)
+[Portfolio](https://krasimirkirov.com/) · [LinkedIn](https://linkedin.com/in/krasimir-kirov)
 
