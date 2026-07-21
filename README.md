@@ -3,11 +3,14 @@
 Fourth-year Software Engineering student at McGill (graduating December 2026). I focus on backend and data systems; APIs, databases, observability, and production reliability.
 
 ## Experience
+- **Intact Financial** — Java/Angular features on a policy platform used by 35,000+ agents and brokers
+- **AWS** (Berlin) — Observability for the Redshift query planner: 12 health signals across a distributed system, SQL telemetry replacing manual log analysis
+- **UKG** — Java features and production defect fixes in a Kubernetes microservices backend (2,500+ orgs)
+- **Pomerleau** — Internal tools in C#/ASP.NET; 25% faster API responses, 50% faster delivery via CI/CD
 
-- **AWS** — Observability platform for the Redshift query planner (SQL diagnostics, health signals, automated alerting)
-- **UKG** — Production defect fixes and data integrity validation in Java on Kubernetes (WFM platform, 2,500 orgs)
-- **Intact Insurance** — Full-stack development on insurance platform using Java and Angular
-- **Pomerleau** — Internal tools in C#/ASP.NET; 25% faster API response, 50% faster delivery via CI/CD
+## Tech
+Java · Python · C# · JavaScript · SQL · Spring Boot · ASP.NET · React · Angular · Node ·
+PostgreSQL · Redshift · Kafka · AWS · Azure · Docker · Kubernetes · RAG/LLMs
 
 ## Projects
 
@@ -15,9 +18,6 @@ Fourth-year Software Engineering student at McGill (graduating December 2026). I
 - [Loop](https://github.com/KrasiKirov/Loop) — Competitive DSA interview prep with server-authoritative Elo, PostgreSQL Row-Level Security, and concurrency-safe rating updates — [live demo](https://loop-dsa.vercel.app)
 - [BriefPDF Reader](https://github.com/KrasiKirov/BriefPDFReader) — Length-controlled AI PDF summaries rendered as clean Markdown — [live demo](https://brief-pdf-reader.vercel.app)
 
-## Tech
-
-Java · C# · Python · JavaScript · SQL · Spring · ASP.NET · React · Angular · Vue · PostgreSQL · Azure · Kubernetes · Docker
 
 ## Connect
 
