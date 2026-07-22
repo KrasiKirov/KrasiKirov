@@ -3,7 +3,7 @@
 Fourth-year Software Engineering student at McGill (graduating December 2026). I focus on backend and data systems; APIs, databases, observability, and production reliability.
 
 ## Experience
-- **Intact Financial** — Java/Angular features on a policy platform used by 35,000+ agents and brokers
+- **Intact Financial Corporation** — Java/Angular features on a policy platform used by 35,000+ agents and brokers
 - **AWS** — Observability for the Redshift query planner: 12 health signals across a distributed system, SQL telemetry replacing manual log analysis
 - **UKG** — Java features and production defect fixes in a Kubernetes microservices backend (2,500+ orgs)
 - **Pomerleau** — Internal tools in C#/ASP.NET; 25% faster API responses, 50% faster delivery via CI/CD
