@@ -14,7 +14,7 @@ PostgreSQL · Redshift · Kafka · AWS · Azure · Docker · Kubernetes · RAG/L
 
 ## Projects
 
-- [Freshet](https://github.com/KrasiKirov/freshet) — Freshness-first streaming RAG for on-call engineers: Kafka ingestion indexed in seconds, hybrid retrieval (0.81 recall@5 on a 160-query benchmark), and an autonomous agent that posts cited incident briefs
+- [Freshet](https://github.com/KrasiKirov/freshet) — Freshness-first streaming RAG for on-call engineers: Kafka ingestion queryable in ~5s, hybrid retrieval with cited answers, and an autopilot that drafts incident briefs and postmortems
 - [EMG to Torque LSTM](https://github.com/KrasiKirov/EMG_TQ_Modelling) — Predicts ankle torque from 4-channel sEMG with an LSTM (TensorFlow/Keras): leakage-free envelope pipeline, pooled R² ≥ 0.96, and within-/cross-subject evaluation across eight joint angles
 - [Loop](https://github.com/KrasiKirov/Loop) — Competitive DSA interview prep with server-authoritative Elo, PostgreSQL Row-Level Security, and concurrency-safe rating updates — [live demo](https://loop-dsa.vercel.app)
 
